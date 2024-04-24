@@ -1,0 +1,11 @@
+
+===================================================
+21BCE134 Zemi Lakkad
+21BCE152 Mili Virani
+Result: 
+Gantt Chart: -
+P0 P1 P2 P3 P3 P2 P2 P2 P2 P1 P1 P1 P0 P0 
+
+===================================================
+Average Turnaround Time: 8.50
+Average Waiting Time: 5.00
